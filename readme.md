@@ -21,3 +21,9 @@
 - Another difficulty I experienced was that I made a mistake by unioning selections rather than grouping each piece independently, which would have made it easy to add different colours rather than having one colour for the entire logo. Because of this error, I only had one path in svg until Jessica showed me that it would be preferable to combine related portions in order to have multiple pathways for editing.
 
 # Process Screencaps
+### Mood Board
+![MoodBoard](https://user-images.githubusercontent.com/97467330/158687906-968a1a40-2a8b-40f6-806c-9fb8c0749087.jpeg)
+
+### Figma Done Logo Before CSS Styling
+![logo-before-css](https://user-images.githubusercontent.com/97467330/158688369-5c8d741c-0516-4c8d-b5e5-72c350247ae3.png)
+
