@@ -20,6 +20,11 @@
 
 - Another difficulty I experienced was that I made a mistake by unioning selections rather than grouping each piece independently, which would have made it easy to add different colours rather than having one colour for the entire logo. Because of this error, I only had one path in svg until Jessica showed me that it would be preferable to combine related portions in order to have multiple pathways for editing.
 
+# Links
+[Live GH Page](https://jibril96.github.io/dsgn270-a3/)
+
+[GH Repo](https://github.com/jibril96/dsgn270-a3)
+
 # Process Screencaps
 ### Mood Board
 ![MoodBoard](https://user-images.githubusercontent.com/97467330/158687906-968a1a40-2a8b-40f6-806c-9fb8c0749087.jpeg)
