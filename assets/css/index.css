@@ -1,0 +1,40 @@
+.windows {
+  fill: #a3c0d6;
+}
+
+.headlight {
+  fill: gold;
+}
+
+.body {
+  fill: #000;
+}
+
+/*Monochrome car logo*/
+.monocrome {
+  fill: rgb(243, 243, 243);
+}
+
+.top {
+  fill: lightgray;
+}
+
+.roof {
+  fill: gray;
+}
+
+.front {
+  fill: gray;
+}
+
+.head {
+  fill: lightgray;
+}
+
+.tire {
+  fill: gray;
+}
+
+.star {
+  fill: lightgray;
+}
